@@ -45,6 +45,7 @@ body {
   .notas input,
   .dadosAluno input {
     width: 30%;
+    margin-top: 10px;
     padding: 10px;
     border-radius: 10px;
   }
